@@ -66,6 +66,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
-	<finalName>app<finalName>
+	<finalName>appVersion02<finalName>
   </build>
 </project>
