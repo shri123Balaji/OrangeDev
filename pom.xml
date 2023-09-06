@@ -34,7 +34,10 @@
       <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
+
           <version>3.1.8</version>
+
+>>>>>>> 9373ae6783f1025ce0fdf596df4bae81d6bd2f52
         </plugin>
         <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
         <plugin>
